@@ -6,5 +6,5 @@ if (!isNaN(number)) {
         console.log('X'.repeat(number));
     }
 } else {
-    console.log('Missin size');
+    console.log('Missing size');
 }
